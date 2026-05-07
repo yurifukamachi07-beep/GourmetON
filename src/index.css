@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Jost', sans-serif;
+    background-color: #F7F4EC;
+    color: #072D21;
+  }
+
+  * {
+    border-radius: 0 !important;
+  }
+
+  input, textarea, button, select {
+    border-radius: 0 !important;
+  }
+}
+
+@layer utilities {
+  .delay-100 { animation-delay: 100ms; }
+  .delay-200 { animation-delay: 200ms; }
+  .delay-300 { animation-delay: 300ms; }
+  .delay-400 { animation-delay: 400ms; }
+  .delay-500 { animation-delay: 500ms; }
+  .opacity-0-init { opacity: 0; }
+
+  .rule-gold {
+    display: block;
+    width: 48px;
+    height: 1px;
+    background-color: #C9991E;
+    margin-bottom: 1.25rem;
+  }
+}
