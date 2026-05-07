@@ -1,6 +1,6 @@
-# GourmetOn 🍽️
+# GourmetOn
 
-Landing page premium para o app de delivery **GourmetOn** — sabor que chega até você.
+Landing page premium para o app de delivery GourmetOn sabor que chega até você.
 
 ## Sobre o projeto
 
@@ -8,23 +8,23 @@ O GourmetOn é uma landing page desenvolvida como projeto acadêmico para a disc
 
 ## Tecnologias utilizadas
 
-- **React 18** — biblioteca principal para construção da UI
-- **Vite** — bundler e servidor de desenvolvimento ultrarrápido
-- **Tailwind CSS** — estilização utilitária com tema customizado
-- **Font Awesome** — ícones via CDN
-- **Google Fonts** — tipografia (Playfair Display + DM Sans)
-- **TheMealDB API** — API pública gratuita para buscar receitas e pratos
+**React 18** — biblioteca principal para construção da UI
+**Vite** — bundler e servidor de desenvolvimento ultrarrápido
+**Tailwind CSS** — estilização utilitária com tema customizado
+**Font Awesome** — ícones via CDN
+**Google Fonts** — tipografia (Playfair Display + DM Sans)
+**TheMealDB API** — API pública gratuita para buscar receitas e pratos
 
 ## Funcionalidades
 
-- **Hero Section** — apresentação com imagem de fundo, CTA e estatísticas
-- **Benefícios** — cards interativos com hover animado
-- **Cardápio** — busca assíncrona via `fetch` na TheMealDB API com skeleton loading
-- **Funcionalidades** — grid com as principais features do app
-- **Depoimentos** — avaliações de clientes
-- **Formulário de Contato** — coleta de e-mail com validação e estado de sucesso
-- **Rodapé** — links, redes sociais e informações legais
-- **Navbar fixa** — com opacidade ajustada ao rolar a página
+**Hero Section** — apresentação com imagem de fundo, CTA e estatísticas
+**Benefícios** — cards interativos com hover animado
+**Cardápio** — busca assíncrona via `fetch` na TheMealDB API com skeleton loading
+**Funcionalidades** — grid com as principais features do app
+**Depoimentos** — avaliações de clientes
+**Formulário de Contato** — coleta de e-mail com validação e estado de sucesso
+**Rodapé** — links, redes sociais e informações legais
+**Navbar fixa** — com opacidade ajustada ao rolar a página
 
 ## Como executar
 
